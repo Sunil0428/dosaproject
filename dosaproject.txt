@@ -19,3 +19,4 @@
 *oil
 *cheese
 *onions
+*chillies
