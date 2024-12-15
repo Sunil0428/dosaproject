@@ -11,3 +11,10 @@
 * eggdosa
 *oil
 *dosa batter
+
+
+#paneer dosa
+*dosa batter
+*paneer
+*oil
+*cheese
