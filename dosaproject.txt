@@ -6,3 +6,8 @@
 #masala dosa
 *add dosa batter
 *add masala
+
+#eggdosa
+* eggdosa
+*oil
+*dosa batter
