@@ -8,3 +8,6 @@
 *add masala
 
 #eggdosa
+* eggdosa
+*oil
+*dosa batter
