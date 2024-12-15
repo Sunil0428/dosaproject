@@ -1,1 +1,4 @@
 # created dosa project
+
+* add dosa batter
+* add oil
